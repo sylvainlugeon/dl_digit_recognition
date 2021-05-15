@@ -1,4 +1,4 @@
-# Mini Project 1 
+# Handwritten Digits Recognition and Comparison
 EE-559 - Deep Learning - EPFL - 2020
 
 _**Benkley** Tyler_, _**Berdoz** Frédéric_, _**Lugeon** Sylvain_
